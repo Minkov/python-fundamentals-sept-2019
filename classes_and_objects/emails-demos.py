@@ -41,7 +41,8 @@ while True:
 
 indices_of_mails_to_send = map(int, input().split(', '))
 
-for index in indices_of_mails_to_send:
-    emailManager.send(index)
+[emailManager.send(index) for index in indices_of_mails_to_send]
+# for index in indices_of_mails_to_send:
+#     emailManager.send(index)
 
 emailManager.print()
