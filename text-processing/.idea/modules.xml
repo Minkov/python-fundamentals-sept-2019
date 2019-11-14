@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/dicts.iml" filepath="$PROJECT_DIR$/.idea/dicts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/text-processing.iml" filepath="$PROJECT_DIR$/.idea/text-processing.iml" />
     </modules>
   </component>
 </project>
